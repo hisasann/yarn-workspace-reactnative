@@ -1,0 +1,12 @@
+{
+  "name": "yarn-workspaces-reactnative",
+  "private": true,
+  "scripts": {
+    "postinstall": "npx jetify"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "version": "1.0.0",
+  "license": "MIT"
+}
