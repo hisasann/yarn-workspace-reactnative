@@ -120,9 +120,9 @@ cd ./AwesomeTSProject/ios && pod install
 を実行してみたら、
 
 ```bash
-[!] Invalid `Podfile` file: cannot load such file -- /Users/yoshiyuki.hisamatsu/_/js-code/yarn-workspaces/packages/AwesomeTSProject/node_modules/react-native/scripts/react_native_pods.
+[!] Invalid `Podfile` file: cannot load such file -- /Users/user/yarn-workspaces/packages/AwesomeTSProject/node_modules/react-native/scripts/react_native_pods.
 
- #  from /Users/yoshiyuki.hisamatsu/_/js-code/yarn-workspaces/packages/AwesomeTSProject/ios/Podfile:1
+ #  from /Users/user/yarn-workspaces/packages/AwesomeTSProject/ios/Podfile:1
  #  -------------------------------------------
  >  require_relative '../node_modules/react-native/scripts/react_native_pods'
  #  require_relative '../node_modules/@react-native-community/cli-platform-ios/native_modules'
